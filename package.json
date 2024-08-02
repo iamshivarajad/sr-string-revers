@@ -1,6 +1,6 @@
 {
   "name": "sr-string-revers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package to reverse the string",
   "main": "index.js",
   "type": "module",
